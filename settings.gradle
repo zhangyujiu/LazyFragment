@@ -1,0 +1,2 @@
+rootProject.name = "LazyFragment"
+include ':app'
